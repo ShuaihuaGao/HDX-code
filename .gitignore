@@ -1,0 +1,12 @@
+*.asv
+*.png
+*.jpg
+*.zip
+*.rar
+*.mat
+*.doc
+*.docx
+*.xls
+data
+tmp
+my*
